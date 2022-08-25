@@ -1,86 +1,49 @@
-# app-bookstore
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> A web app for adding, removing and editing books.
+# App-bookstore
 
-![screenshot](bookstore-snap.png)
+> Book store application using React framework.
 
-
+![screenshot]
 
 ## Built With
 
-- HTML
-- CSS
-- JAVASCRIPT
+- Html
+- Css
+- JavaScript
 - React
+- Redux
+- API
 
-## Live Demo (if available)
-[Live Demo Link](http://localhost:3000/)
+## Live Demo
 
-
+[Live Demo Link](/)
 
 ## Getting Started
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Click on the top right green "code" button.
+- On the dropdown menu, choose "download with zip" button.
+- After download, extract the zip file and you have the project on your machine.
+- After downloading run `npm i` to install all Node packages.
+- Run `npm start` to run the project.
 
-- Web browser
-- Code editor
+## Author
 
-### Setup
-
-
-```bash
-npm install
-```
-
-```bash
-npm build
-```
-
-```bash
-npm start
-```
-
-### Run the following commands to run linter tests
-
-
-StyleLint
-```bash
-npx stylelint "**/*.{css,scss}"
-```
-
-ESLint
-```bash
-npx eslint .
-```
-
-
-
-## Authors
-
-👤 **Author1**
-👤 **Tamara Siansanda**
+👤 **Siansanda Tamara**
 
 - GitHub: [@SiansandaTamara](https://github.com/SiansandaTamara)
-- Twitter: [@twitterhandle](https://twitter.com/TamaraSiansanda)
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-
-## 📝 License
-
-This project is [MIT](https://github.com/SiansandaTamara/app-bookstore/blob/dev/LICENSE) licensed.
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
 
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
