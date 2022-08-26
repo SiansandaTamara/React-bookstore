@@ -32,6 +32,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Siansanda Tamara**
 
+<<<<<<< HEAD
  GitHub: [@SiansandaTamara](https://github.com/SiansandaTamara)
 
 
