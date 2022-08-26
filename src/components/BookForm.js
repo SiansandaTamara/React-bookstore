@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import { addBook } from '../redux/books/books';
 /* eslint-disable react/jsx-key */
-const BookForm = () => {
+function BookForm() {
   const dispatch = useDispatch();
   const [title, setTitle] = useState('');
   const [author, setAuthor] = useState('');
@@ -40,6 +40,6 @@ const BookForm = () => {
       </form>
     </div>
   );
-};
+}
 
 export default BookForm;
